@@ -1,0 +1,5 @@
+egemen|2|cat|[c, d, s, a, t]
+Emgen|4|cat|[c, s, d, f, g, a, t]
+cee|7|bossiness|[c, a, r, e, s, u, m, t, o, p]
+ddd|1|java|[j, a, t, v]
+Egemen|4|artists|[e, s, i, o, m, t, a, n, r]
